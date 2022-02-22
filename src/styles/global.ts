@@ -5,18 +5,22 @@ export const GlobalStyle = createGlobalStyle`
     --primary:      #00A1FE;
     --primaryDark:  #283CA5;
     --secundary:    #212121;
-    --success:      #43A047;
-    --danger:       #E53935;
+
+    --danger:       #e52e4d;
     --warning:      #FFB300;
-    --title:        #363F5F;
-    --text:         #969CB2;
+    --success:      #33CC95;
+
+    --title:        #363f5f;
+    --text:         #969cb3;
+
     --shape:        #FFFFFF;
-    --background:   #e5e5e5;
+    --background:   #f0f2f5;
   }
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
   }
   html {
     @media (max-width: 1080px) {
@@ -31,11 +35,9 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
   border-style, input, textarea, button {
-    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
   }
   h1, h2, h3, h4, h5, h6, strong {
-    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
   }
   button {
