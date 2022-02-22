@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+   <a href="https://linkedin.com/in/lukevinicius/">
+      <img alt="Lucasvinicius" src="https://img.shields.io/badge/-lukevinicius-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/lukevinicius/dt-money?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/lukevinicius/dt-money?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/lukevinicius/dt-money?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/lukevinicius/dt-money?color=%235965E0">
+  <a href="mailto:lucasviniciusaalves@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-lucasviniciusaalves%40gmail.com-%23525DCB" />
+  </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  Template frontend with Typescript. Template developed for creating projects using React with Typescript
+</p>
 
-In the project directory, you can run:
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/lukevinicius">Lucas vinicius.
+  </sub>
+</div>
 
-### `yarn start`
+# 📌 Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* [Technologies](#rocket-technologies) 
+* [How to Run](#computer-how-to-run)
+* [Issues](#bug-issues)
+* [Contributing](#sparkles-issues)
+* [License](#page_facing_up-license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# :rocket: Technologies
+This template was made using the follow technologies:
 
-### `yarn test`
+* [Typescript](https://www.typescriptlang.org/)      
+* [React](https://reactjs.org/)      
+* [Styled Components](https://styled-components.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# :computer: How to run
 
-### `yarn build`
+```bash
+# Clone Repository
+$ git clone https://github.com/lukevinicius/dt-money.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Install Dependencies
+$ yarn
+# Run Aplication
+$ yarn dev
+```
+Go to http://localhost:3000/ to see the result.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# :bug: Issues
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Create a <a href="https://github.com/lukevinicius/dt-money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
-### `yarn eject`
+# :sparkles: Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# :page_facing_up: License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This project is under the [MIT license](./LICENSE).
+Made with 💖 by [Lucas vinicius](https://linkedin.com/in/lukevinicius/). 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you! 🌠
