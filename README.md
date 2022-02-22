@@ -1,15 +1,11 @@
-<p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
-</p>
-
 <p align="center">	
    <a href="https://linkedin.com/in/lukevinicius/">
       <img alt="Lucasvinicius" src="https://img.shields.io/badge/-lukevinicius-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/lukevinicius/dt-money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/lukevinicius/dt-money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/lukevinicius/dt-money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/lukevinicius/dt-money?color=%235965E0">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/lukevinicius/React-Typescript-Template?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/lukevinicius/React-Typescript-Template?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/lukevinicius/React-Typescript-Template?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/lukevinicius/React-Typescript-Template?color=%235965E0">
   <a href="mailto:lucasviniciusaalves@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-lucasviniciusaalves%40gmail.com-%23525DCB" />
   </a>
@@ -44,7 +40,7 @@ This template was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/lukevinicius/dt-money.git
+$ git clone https://github.com/lukevinicius/React-Typescript-Template.git
 ```
 
 ```bash
@@ -57,7 +53,7 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/lukevinicius/dt-money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/lukevinicius/React-Typescript-Template/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 # :sparkles: Contributing
 
